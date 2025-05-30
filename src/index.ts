@@ -18,7 +18,7 @@ const io = new Server(server, {
     origin: [
       "http://localhost:3000",
       "https://admin.socket.io",
-      "https://vineeth_Quick_chat.vercel.app",
+      "https://vineeth_quick_chat.vercel.app",
     ],
     credentials: true,
   },
